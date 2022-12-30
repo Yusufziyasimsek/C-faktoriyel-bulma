@@ -1,0 +1,15 @@
+C:\Users\abn\Desktop\C# Faktoriyel bulma\bin\Debug\net6.0\C# Faktoriyel bulma.exe
+C:\Users\abn\Desktop\C# Faktoriyel bulma\bin\Debug\net6.0\C# Faktoriyel bulma.deps.json
+C:\Users\abn\Desktop\C# Faktoriyel bulma\bin\Debug\net6.0\C# Faktoriyel bulma.runtimeconfig.json
+C:\Users\abn\Desktop\C# Faktoriyel bulma\bin\Debug\net6.0\C# Faktoriyel bulma.dll
+C:\Users\abn\Desktop\C# Faktoriyel bulma\bin\Debug\net6.0\C# Faktoriyel bulma.pdb
+C:\Users\abn\Desktop\C# Faktoriyel bulma\obj\Debug\net6.0\C# Faktoriyel bulma.csproj.AssemblyReference.cache
+C:\Users\abn\Desktop\C# Faktoriyel bulma\obj\Debug\net6.0\C# Faktoriyel bulma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abn\Desktop\C# Faktoriyel bulma\obj\Debug\net6.0\C# Faktoriyel bulma.AssemblyInfoInputs.cache
+C:\Users\abn\Desktop\C# Faktoriyel bulma\obj\Debug\net6.0\C# Faktoriyel bulma.AssemblyInfo.cs
+C:\Users\abn\Desktop\C# Faktoriyel bulma\obj\Debug\net6.0\C# Faktoriyel bulma.csproj.CoreCompileInputs.cache
+C:\Users\abn\Desktop\C# Faktoriyel bulma\obj\Debug\net6.0\C# Faktoriyel bulma.dll
+C:\Users\abn\Desktop\C# Faktoriyel bulma\obj\Debug\net6.0\refint\C# Faktoriyel bulma.dll
+C:\Users\abn\Desktop\C# Faktoriyel bulma\obj\Debug\net6.0\C# Faktoriyel bulma.pdb
+C:\Users\abn\Desktop\C# Faktoriyel bulma\obj\Debug\net6.0\C# Faktoriyel bulma.genruntimeconfig.cache
+C:\Users\abn\Desktop\C# Faktoriyel bulma\obj\Debug\net6.0\ref\C# Faktoriyel bulma.dll
